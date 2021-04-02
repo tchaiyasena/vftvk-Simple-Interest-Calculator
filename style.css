@@ -1,4 +1,38 @@
-body {background-color:tan;}
-h1{color:green;}
-
-
+body {
+  background-color:white;
+  font-family:arial;
+  font-weight:bold;
+  border-radius:25px;
+  border-style:outset;
+  border-color:black;
+  width: 50%;
+  color:#000000;
+  margin:0 auto;
+  padding:5px;
+  text-align:left;
+  font-size:20px;
+  font-family:sans-serif;
+}
+h1{
+  font-family:verdana;
+  color:gray;
+  font-size:35px;
+}
+.maindiv{
+	background-color:white;
+	color:black;
+	width:65%;
+	padding:20px;
+	border-radius:25px;
+	margin-left:auto;
+	margin-right:auto;
+}
+table{
+	display:flex;
+	align-items:center;
+	justify-content:center;
+	width:95%;
+}
+.result{
+	background-color:yellow;
+}
