@@ -1,12 +1,9 @@
 body {
-  background-color:white;
+  background-color:black;
   font-family:arial;
   font-weight:bold;
-  border-radius:25px;
-  border-style:outset;
-  border-color:black;
   width: 50%;
-  color:#000000;
+  color:black;
   margin:0 auto;
   padding:5px;
   text-align:left;
@@ -24,6 +21,8 @@ h1{
 	width:65%;
 	padding:20px;
 	border-radius:25px;
+	border-style:solid;
+	border-color:black;
 	margin-left:auto;
 	margin-right:auto;
 }
